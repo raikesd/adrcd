@@ -1,5 +1,5 @@
 ################################################################################
-#	File:	config/package-lists/brl.list.chroot
+#	File:	config/package-lists/console-accessibility.list.chroot
 #	Date:	05/20/2013
 #	Authro:	Donald Raikes <don.raikes@gmail.com>
 #-------------------------------------------------------------------------------
@@ -8,3 +8,9 @@
 brltty
 libbrlapi0.5
 python-brlapi
+espeak
+espeak-data
+libespeak1
+espeakup
+alsa-base
+alsa-utils
