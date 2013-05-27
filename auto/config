@@ -18,5 +18,4 @@ lb config noauto \
 	--iso-volume "ACRES Live" \
 	--linux-packages linux-image \
 	--bootappend-live "boot=live noconfig=sudo username=root hostname=kali persistence persistence-usb" \
-	$lb_opts \
 	"$@"
