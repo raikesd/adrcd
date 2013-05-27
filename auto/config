@@ -1,4 +1,22 @@
 #!/bin/sh
-
+#	File:	auto/config
+#	Date:	05/27/2013
+#	Author:	Donald Raikes <don.raikes@gmail.comm>
+#################################################################
+#################################################################
 lb config noauto \
-	 "${@}"
+	--distribution "acres" \
+	--debian-installer-distribution "acres" \
+	--archive-areas "main contrib non-free" \
+	--bootstrap cdebootstrap \
+	--updates false \
+	--source false \
+	--firmware-binary true \
+	--firmware-chroot true \
+	--iso-application "Acres Linux" \
+	--iso-publisher "ACRES" \
+	--iso-volume "ACRES Live" \
+	--linux-packages linux-image \
+	--bootappend-live "boot=live noconfig=sudo username=root hostname=kali persistence persistence-usb" \
+	$lb_opts \
+	"$@"
