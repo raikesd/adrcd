@@ -1,8 +1,0 @@
-#######################################################################
-#	file:	config/package-lists/python.list.chroot
-#	date:	05/25/2013
-#	author:	Donald Raieks <don.raikes@gmail.com>
-#
-#######################################################################
-python-dpkt
-python-nmap

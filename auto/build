@@ -1,14 +1,5 @@
 #!/bin/sh
-####################################################################################
-#	File:	auto/build
-#	Date:	05/27/2013
-#	Author:	Donald Raikes <don.raikes@gmail.com>
-####################################################################################
 
-# This variable is required otherwise
-# /usr/share/live/build/scripts/build/binary_debian-installer fails because
-# the version is empty (nothing known in
-# /usr/share/live/build/functions/releases.sh)
-export RELEASE_ACRES="7.0"
+set -e
 
-lb build noauto "$@" 2>&1 | tee binary.log
+lb build noauto "${@}" 2>&1 | tee build.log

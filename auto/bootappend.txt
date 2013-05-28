@@ -1,0 +1,1 @@
+	--bootappend-live "boot=live noconfig=sudo username=root hostname=kali" \

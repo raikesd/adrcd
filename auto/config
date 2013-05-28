@@ -1,21 +1,25 @@
 #!/bin/sh
-#	File:	auto/config
-#	Date:	05/27/2013
-#	Author:	Donald Raikes <don.raikes@gmail.comm>
-#################################################################
-#################################################################
+
+set -e
+
+case "$(dpkg --print-architecture)" in
+	amd64)
+		_LINUX_FLAVOURS="amd64"
+		_SOURCE="false"
+		;;
+
+	i386)
+		_LINUX_FLAVOURS="486 686-pae"
+		_SOURCE="true"
+		;;
+esac
+
 lb config noauto \
-	--distribution "acres" \
-	--debian-installer-distribution "acres" \
-	--archive-areas "main contrib non-free" \
-	--bootstrap cdebootstrap \
-	--updates false \
-	--source false \
-	--firmware-binary true \
-	--firmware-chroot true \
-	--iso-application "Acres Linux" \
-	--iso-publisher "ACRES" \
-	--iso-volume "ACRES Live" \
-	--linux-packages linux-image \
-	--bootappend-live "boot=live noconfig=sudo username=root hostname=kali persistence persistence-usb" \
-	"$@"
+	--clean \
+	--ignore-system-defaults \
+	--mode debian \
+	--debian-installer live \
+	--linux-flavours "${_LINUX_FLAVOURS}" \
+	--linux-packages "linux-image linux-headers" \
+	--source "${_SOURCE}" \
+"${@}"
