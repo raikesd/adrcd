@@ -302,3 +302,10 @@ build-essential gdb gfortran gnat
 #if ARCHITECTURES i386
 bin86
 #endif
+
+# extra windows password recovery packages
+samdump2
+ophcrack
+ophcrack-cli
+john
+chntpw

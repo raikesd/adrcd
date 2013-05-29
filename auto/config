@@ -22,4 +22,5 @@ lb config noauto \
 	--linux-flavours "${_LINUX_FLAVOURS}" \
 	--linux-packages "linux-image linux-headers" \
 	--source "${_SOURCE}" \
+	--bootappend-live "boot=live noconfig=sudo username=root hostname=rescue-cd persistence" \
 "${@}"
