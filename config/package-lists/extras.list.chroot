@@ -1,4 +1,6 @@
 xvfb
 libgtk2.0-0
 libatk1.0-0
+x11-xkb-utils
+xserver-xorg-core
 git
