@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+mkdir -p /git
+pushd /git
+git clone http://bmcginty.hopto.org/clifox.git

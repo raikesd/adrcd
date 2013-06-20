@@ -14,3 +14,6 @@ libespeak1
 espeakup
 alsa-base
 alsa-utils
+emacspeak
+emacs
+speech-dispatcher
