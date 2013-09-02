@@ -1,0 +1,394 @@
+p   afpfs-ng                        - Client for the Apple Filing Protocol (AFP)
+p   afpfs-ng-utils                  - Client for the Apple Filing Protocol (AFP)
+p   aplus-fsf                       - A+ programming language run-time environme
+p   aplus-fsf-dev                   - A+ programming language development enviro
+p   aplus-fsf-doc                   - A+ programming language documentation     
+p   aplus-fsf-el                    - XEmacs lisp for A+ development            
+p   aptfs                           - FUSE filesystem for APT source repositorie
+v   archfs                          -                                           
+p   atfs                            - The Attributed File System (AtFS)         
+p   atfs-dev                        - The Attributed File System (AtFS developme
+p   aufs-tools                      - Tools to manage aufs filesystems          
+p   aufs-tools-dbg                  - Tools to manage aufs filesystems (debug)  
+p   autofs                          - kernel-based automounter for Linux        
+p   autofs-hesiod                   - Hesiod map support for autofs             
+p   autofs-ldap                     - LDAP map support for autofs               
+p   autofs5                         - transitional dummy package for 'autofs'   
+p   autofs5-hesiod                  - transitional dummy package for 'autofs-hes
+p   autofs5-ldap                    - transitional dummy package for 'autofs-lda
+p   avfs                            - virtual filesystem to access archives, dis
+p   bindfs                          - mirrors or overlays a local directory with
+p   bootcd-mkinitramfs              - initramfs extension for bootcd            
+i   btrfs-tools                     - Checksumming Copy on Write Filesystem util
+p   btrfs-tools-dbg                 - Checksumming Copy on Write Filesystem util
+i   cifs-utils                      - Common Internet File System utilities     
+p   clfswm                          - A(nother) Common Lisp FullScreen Window Ma
+p   copyfs                          - Versioning filesystem for FUSE            
+p   cramfsprogs                     - Tools for CramFs (Compressed ROM File Syst
+p   cramfsswap                      - swap endianess of a cram filesystem (cramf
+p   curlftpfs                       - filesystem to access FTP hosts based on FU
+p   daemonfs                        - real time monitoring software             
+p   davfs2                          - mount a WebDAV resource as a regular file 
+p   diffstat                        - produces graph of changes introduced by a 
+i   dosfstools                      - utilities for making and checking MS-DOS F
+p   dosfstools-dbg                  - utilities for making and checking MS-DOS F
+p   e2fsck-static                   - statically-linked version of the ext2/ext3
+i   e2fslibs                        - ext2/ext3/ext4 file system libraries      
+p   e2fslibs-dbg                    - debugging information for e2fslibs        
+p   e2fslibs-dev                    - ext2/ext3/ext4 file system libraries - hea
+i   e2fsprogs                       - ext2/ext3/ext4 file system utilities      
+p   e2fsprogs-dbg                   - debugging information for e2fsprogs       
+p   ecryptfs-utils                  - ecryptfs cryptographic filesystem (utiliti
+p   ecryptfs-utils-dbg              - ecryptfs cryptographic filesystem (utiliti
+p   emacs23-common-non-dfsg         - GNU Emacs shared, architecture independent
+p   emacs24-common-non-dfsg         - GNU Emacs common non-DFSG items, including
+p   encfs                           - encrypted virtual filesystem              
+p   erlang-guestfs                  - guest disk image management system - Erlan
+v   ext2fs-dev                      -                                           
+p   fai-nfsroot                     - Fully Automatic Installation nfsroot packa
+p   flickrfs                        - virtual filesystem for flickr online photo
+p   fonts-cwtex-fs                  - TrueType Font from cwTeX - FangSong       
+p   fonts-gfs-artemisia             - greek font (Times Greek-like)             
+p   fonts-gfs-baskerville           - ancient Greek font revival                
+p   fonts-gfs-bodoni-classic        - smart greek typeface revival              
+p   fonts-gfs-complutum             - ancient Greek font revival from the Univer
+p   fonts-gfs-didot                 - greek font family (Didot revival)         
+p   fonts-gfs-didot-classic         - greek font family (Classic Didot revival) 
+p   fonts-gfs-gazis                 - ancient Greek font (Byzantine cursive hand
+p   fonts-gfs-neohellenic           - new Greek font family with matching Latin 
+p   fonts-gfs-olga                  - ancient Greek oblique font revival (compan
+p   fonts-gfs-porson                - Greek font (Porson revival)               
+p   fonts-gfs-solomos               - ancient Greek oblique font                
+p   fonts-gfs-theokritos            - decorative Greek font                     
+p   fonts-rufscript                 - handwriting-based font for Latin character
+i   fsarchiver                      - file system archiver                      
+v   fsck-backend                    -                                           
+p   fsgateway                       - FUSE module to browse database's metadata,
+p   fsl                             - Metapackage for the latest version of FSL 
+p   fsl-4.1                         - analysis tools for FMRI, MRI and DTI brain
+v   fsl-doc                         -                                           
+p   fsl-doc-4.1                     - documentation for FSL                     
+p   fslint                          - Utility collection to find and fix common 
+p   fsmark                          - benchmark for simulating synchronous write
+p   fso-datad                       - freesmartphone data daemon                
+p   fso-datad-dbg                   - freesmartphone data daemon (debug symbols)
+p   fso-deviced                     - freesmartphone.org device daemon          
+p   fso-deviced-dbg                 - freesmartphone.org device daemon (debug sy
+v   fso-deviced-player              -                                           
+p   fso-deviced-player-canberra     - Canberra player module for fso-deviced    
+p   fso-deviced-player-gstreamer    - Gstreamer player module for fso-deviced   
+p   fso-frameworkd                  - freesmartphone.org Framework Daemon       
+p   fso-gpsd                        - gpsd subset compatibility daemon for the f
+p   fso-gsm0710muxd                 - GSM 07.10 Multiplexer                     
+p   fso-gsmd                        - freesmartphone.org GSM daemon             
+p   fso-gsmd-dbg                    - debugging symbols for freesmartphone.org G
+p   fso-gsmd-ezx                    - freesmartphone.org GSM daemon for Motorola
+p   fso-gsmd-gta04                  - freesmartphone.org GSM daemon for the GTA0
+p   fso-gsmd-htc                    - freesmartphone.org GSM daemon for HTC devi
+p   fso-gsmd-openmoko               - freesmartphone.org GSM daemon for Openmoko
+v   fso-gsmd-platform               -                                           
+v   fso-sounds                      -                                           
+p   fso-sounds-yue-base             - Yue base ringtones for the freesmartphone.
+p   fso-sounds-yue-full             - Yue full ringtones for the freesmartphone.
+p   fso-specs                       - freesmartphone.org D-Bus XML specification
+p   fso-usaged                      - freesmartphone.org usage daemon           
+p   fso-usaged-dbg                  - debugging symbols for use with freesmartph
+p   fspanel                         - minimalist panel for X                    
+p   fsprotect                       - Helper scripts to make filesystems immutab
+p   fspy                            - filesystem activity monitoring tool       
+p   fstransform                     - Tool for in-place filesystem conversion   
+p   fstrcmp                         - fuzzy comparison of strings               
+p   fsviewer-icons                  - icons for fsviewer to make it look more li
+p   fsvs                            - Full system versioning with metadata suppo
+p   fswebcam                        - Tiny and flexible webcam program          
+p   fuse-convmvfs                   - mirrors a whole filesystem tree from one c
+p   gaim-extendedprefs              - plugin for the instant messenger pidgin (t
+p   genext2fs                       - ext2 filesystem generator for embedded sys
+p   genromfs                        - This is the mkfs equivalent for romfs file
+p   gfarm2fs                        - FUSE program to mount the Gfarm file syste
+p   gfs-pcmk                        - Red Hat cluster suite - GFS pacemaker modu
+p   gfs-tools                       - Red Hat cluster suite - global file system
+p   gfs2-tools                      - Red Hat cluster suite - global file system
+p   gfsd                            - Gfarm file system daemon                  
+p   gifsicle                        - Tool for manipulating GIF images          
+p   gir1.2-guestfs-1.0              - guest disk image management system - GObje
+p   glusterfs-client                - clustered file-system (client package)    
+p   glusterfs-common                - GlusterFS common libraries and translator 
+p   glusterfs-dbg                   - GlusterFS debugging symbols               
+p   glusterfs-examples              - example files for the glusterfs server and
+p   glusterfs-server                - clustered file-system (server package)    
+p   gmfsk                           - MFSK, RTTY and other digital mode terminal
+v   gnustep-fslayout-fhs            -                                           
+p   gphotofs                        - filesystem to mount digital cameras       
+i A growisofs                       - DVD+-RW/R recorder                        
+p   gstreamer0.10-gnomevfs          - GStreamer plugin for GnomeVFS             
+p   guestfsd                        - Daemon to access to guest virtual machine 
+p   guile-1.8-doc-non-dfsg          - Reference documentation for Guile 1.8 (non
+i A gvfs                            - userspace virtual filesystem - GIO module 
+i A gvfs-backends                   - userspace virtual filesystem - backends   
+p   gvfs-bin                        - userspace virtual filesystem - binaries   
+i A gvfs-common                     - userspace virtual filesystem - common data
+i A gvfs-daemons                    - userspace virtual filesystem - servers    
+p   gvfs-dbg                        - userspace virtual filesystem - debugging i
+i A gvfs-fuse                       - userspace virtual filesystem - fuse server
+i A gvfs-libs                       - userspace virtual filesystem - private lib
+i   hfsplus                         - Tools to access HFS+ formatted volumes    
+p   hfsprogs                        - mkfs and fsck for HFS and HFS+ file system
+i   hfsutils                        - Tools for reading and writing Macintosh vo
+p   hfsutils-tcltk                  - Tcl/Tk interfaces for reading and writing 
+p   httpfs2                         - FUSE filesystem for mounting files from ht
+p   ifscheme                        - scheme control for network interfaces     
+i   ifstat                          - InterFace STATistics Monitoring           
+i A initramfs-tools                 - generic modular initramfs generator       
+i   jfsutils                        - utilities for managing the JFS filesystem 
+v   knfs                            -                                           
+p   kumofs                          - simple and fast distributed key-value stor
+p   lhapdf-pdfsets-minimal          - Minimal PDF Sets of LHAPDF                
+p   libafsauthent1                  - AFS distributed file system runtime librar
+p   libafsrpc1                      - AFS distributed file system runtime librar
+p   libatfs1                        - The Attributed File System (AtFS runtime l
+p   libb-hooks-endofscope-perl      - module for executing code after a scope fi
+p   libcommons-vfs-java             - Java API for accessing various filesystems
+p   libcommons-vfs-java-doc         - Java API for accessing various filesystems
+p   libcpldfs20                     - CPL functions for Data Flow System compati
+v   libdesktop-agnostic-vfs         -                                           
+p   libdesktop-agnostic-vfs-gio     - GIO-based VFS module for libdesktop-agnost
+p   libecryptfs-dev                 - ecryptfs cryptographic filesystem (develop
+p   libecryptfs0                    - ecryptfs cryptographic filesystem (library
+v   libext2fs2                      -                                           
+p   libfakefs-ruby                  - Transitional package for ruby-fakefs      
+p   libfakefs-ruby1.8               - Transitional package for ruby-fakefs      
+p   libfakefs-ruby1.9.1             - Transitional package for ruby-fakefs      
+p   libfile-nfslock-perl            - perl module to do NFS (or not) locking    
+p   libfilesys-statvfs-perl         - Perl module for the statvfs system call   
+p   libfs-dev                       - X11 Font Services library (development hea
+i A libfs6                          - X11 Font Services library                 
+p   libfs6-dbg                      - X11 Font Services library (debug package) 
+p   libfso-glib-dbg                 - debugging symbols for use with libfso-glib
+p   libfso-glib-dev                 - Development files for libfso-glib         
+p   libfso-glib1                    - freesmartphone.org GLib-based DBus binding
+p   libfsobasics-dbg                - debugging symbols for use with libfsobasic
+p   libfsobasics-dev                - Development files for libfsobasics        
+p   libfsobasics0                   - freesmartphone.org basics library         
+p   libfsoframework-dbg             - debugging symbols for use with libfsoframe
+p   libfsoframework-dev             - Development files for libfsoframework     
+p   libfsoframework0                - freesmartphone.org framework library      
+p   libfsoresource-dbg              - debugging symbols for use with libfsoresou
+p   libfsoresource-dev              - Development files for libfsoresource      
+p   libfsoresource0                 - freesmartphone.org resource implementation
+p   libfsosystem-dbg                - debugging symbols for use with libfsosyste
+p   libfsosystem-dev                - Development files for libfsosystem        
+p   libfsosystem0                   - freesmartphone.org system implementation l
+p   libfsotransport-dbg             - debugging symbols for use with libfsotrans
+p   libfsotransport-dev             - Development files for libfsotransport     
+p   libfsotransport3                - freesmartphone.org transport library      
+p   libfsplib-dev                   - FSP v2 protocol stack library - developmen
+i A libfsplib0                      - FSP v2 protocol stack library - shared lib
+p   libfssm-ruby                    - Transitional package for ruby-fssm        
+p   libfssm-ruby1.8                 - Transitional package for ruby-fssm        
+p   libfssm-ruby1.9.1               - Transitional package for ruby-fssm        
+p   libfstrcmp-dev                  - library of fuzzy string comparison functio
+p   libfstrcmp0                     - library of fuzzy string comparison functio
+p   libfstrcmp0-dbg                 - library of fuzzy string comparison functio
+p   libfusefs-ruby                  - Transitional package for ruby-fusefs      
+p   libfusefs-ruby1.8               - Transitional package for ruby-fusefs      
+p   libgfshare-bin                  - utilities for multi-way secret-sharing    
+p   libgfshare-dbg                  - library for multi-way secret-sharing (debu
+p   libgfshare-dev                  - library for multi-way secret-sharing (head
+p   libgfshare1                     - library for multi-way secret-sharing      
+p   libgnome-vfs2.0-cil             - CLI binding for GnomeVFS 2.24             
+p   libgnome-vfs2.0-cil-dev         - CLI binding for GnomeVFS 2.24             
+p   libgnome-vfsmm-2.6-1c2a         - C++ wrappers for GnomeVFS (shared library)
+p   libgnome-vfsmm-2.6-dev          - C++ wrappers for GnomeVFS (development fil
+p   libgnome-vfsmm-2.6-doc          - C++ wrappers for GnomeVFS (documentation) 
+p   libgnome2-vfs-perl              - Perl interface to the 2.x series of the GN
+i A libgnomevfs2-0                  - GNOME Virtual File System (runtime librari
+p   libgnomevfs2-0-dbg              - GNOME Virtual File System (debugging libra
+p   libgnomevfs2-bin                - GNOME Virtual File System (support binarie
+i   libgnomevfs2-common             - GNOME Virtual File System (common files)  
+p   libgnomevfs2-dev                - GNOME Virtual File System library (develop
+i   libgnomevfs2-extra              - GNOME Virtual File System (extra modules) 
+p   libguestfs-dev                  - guest disk image management system - devel
+p   libguestfs-gobject-1.0-0        - guest disk image management system - GObje
+p   libguestfs-gobject-dev          - guest disk image management system - GObje
+p   libguestfs-java                 - guest disk image management system - Java 
+p   libguestfs-ocaml                - guest disk image management system - OCaml
+p   libguestfs-ocaml-dev            - guest disk image management system - OCaml
+v   libguestfs-ocaml-dev-f0k16      -                                           
+v   libguestfs-ocaml-f0k16          -                                           
+p   libguestfs-perl                 - guest disk image management system - Perl 
+p   libguestfs-tools                - guest disk image management system - tools
+p   libguestfs0                     - guest disk image management system - share
+p   libguestfs0-dbg                 - guest disk image management system - debug
+p   libhfsp-dev                     - Library to access HFS+ formatted volumes  
+i A libhfsp0                        - Shared library to access HFS+ formatted vo
+p   libifstat-dev                   - Ifstat Development Files                  
+p   libisofs-dbg                    - debugging symbols for libisofs            
+p   libisofs-dev                    - development package for libisofs          
+p   libisofs-doc                    - API documentation for libisofs library    
+p   libisofs6                       - library to create ISO9660 images          
+p   libjboss-vfs-java               - JBoss Virtual File System                 
+p   libjcifs-java                   - java library for the CIFS/SMB networking p
+p   libjcifs-java-doc               - Documentation for libjcifs-java (CIFS/SMB 
+p   libkafs0-heimdal                - Heimdal Kerberos - KAFS support library   
+p   libkopenafs1                    - AFS distributed file system runtime librar
+p   libnfs-dev                      - NFS client library (development files)    
+p   libnfs1                         - NFS client library (shared library)       
+p   libnfsidmap-dev                 - header files and docs for libnfsidmap     
+i   libnfsidmap2                    - NFS idmapping library                     
+p   libntfs-dev                     - library that provides common NTFS access f
+p   libntfs-gnomevfs                - NTFS GNOME virtual filesystem module      
+i A libntfs10                       - library that provides common NTFS access f
+p   libopenafs-dev                  - AFS distributed filesystem development lib
+p   libpam-afs-session              - PAM module to set up a PAG and obtain AFS 
+p   libpam-encfs                    - PAM module to automatically mount encfs fi
+p   libpam-openafs-kaserver         - AFS distributed filesystem kaserver PAM mo
+p   libpfs-1.2-0                    - C++ library to read and write pfs files   
+p   libpfs-dev                      - C++ library to read and write pfs files (d
+v   libphysfs-1.0-0                 -                                           
+p   libphysfs-dev                   - filesystem abstraction library for game pr
+p   libphysfs1                      - filesystem abstraction library for game pr
+p   libphysfs1-dbg                  - filesystem abstraction library for game pr
+p   libsefs-dev                     - Security Enhanced Linux file context manag
+p   libsefs4                        - Security Enhanced Linux file context manag
+v   libsfst1                        -                                           
+p   libsfst1-1.2-0                  - Shared library for SFST                   
+p   libsfst1-1.2-0-dev              - Development library SFST                  
+v   libsfst1-dev                    -                                           
+p   libsysfs-dev                    - interface library to sysfs - development f
+i A libsysfs2                       - interface library to sysfs                
+p   libtaoframework-physfs-cil-dev  - Tao CLI binding for PhysicsFS - developmen
+p   libtaoframework-physfs1.0-cil   - Tao CLI binding for PhysicsFS             
+p   libthunar-vfs-1-2               - Legacy VFS abstraction used in Xfce       
+p   libthunar-vfs-1-2-dbg           - debugging informations for thunar-vfs     
+p   libthunar-vfs-1-common          - Provides thunar-vfs documentation, icons a
+p   libthunar-vfs-1-dev             - Development files for thunar-vfs          
+v   libufsparse-dev                 -                                           
+p   libyanfs-java                   - Yet Another NFS - a Java NFS library      
+v   linux-initramfs-tool            -                                           
+p   live-boot-initramfs-tools       - Live System Boot Scripts (initramfs-tools 
+p   logfs-tools                     - Tools to manage logfs filesystems         
+p   logfs-tools-dbg                 - Tools to manage logfs filesystems (debug) 
+p   ltspfs                          - Fuse based remote filesystem for LTSP thin
+p   ltspfsd                         - Fuse based remote filesystem hooks for LTS
+p   ltspfsd-core                    - Fuse based remote filesystem daemon for LT
+p   makefs                          - create a cd9660 or ffs file system image f
+p   mhddfs                          - file system for unifying several mount poi
+v   mkcramfs                        -                                           
+p   mp3fs                           - FUSE filesystem for transcoding FLAC to MP
+p   mythtvfs                        - userspace filesystem client for MythTV    
+p   ncpfs                           - utilities to use resources from NetWare se
+v   nfs-client                      -                                           
+i   nfs-common                      - NFS support files common to client and ser
+p   nfs-kernel-server               - support for NFS kernel server             
+v   nfs-server                      -                                           
+p   nfs4-acl-tools                  - Commandline and GUI ACL utilities for the 
+p   nfspy                           - ID-spoofing NFS client                    
+p   nfswatch                        - Program to monitor NFS traffic for the con
+i   nilfs-tools                     - Continuous Snapshotting Log-structured Fil
+p   nilfs-tools-dbg                 - Continuous Snapshotting Log-structured Fil
+i   ntfs-3g                         - read/write NTFS driver for FUSE           
+p   ntfs-3g-dbg                     - read/write NTFS driver for FUSE (debug)   
+p   ntfs-3g-dev                     - read/write NTFS driver for FUSE (developme
+p   ntfs-config                     - Enable/disable write support for any NTFS 
+p   ntfs-mount-knoppix              - Wrapper for ntfs-3g to handle hibernation 
+p   ntfsdoc                         - documentation about NTFS partitions format
+p   ntfsprogs                       - read/write NTFS driver for FUSE (transitio
+p   obexfs                          - mount filesystem of ObexFTP capable device
+p   obfsproxy                       - pluggable transport proxy for Tor         
+p   ocfs2-tools                     - tools for managing OCFS2 cluster filesyste
+p   ocfs2-tools-cman                - tools for managing OCFS2 cluster filesyste
+p   ocfs2-tools-dev                 - tools for managing OCFS2 cluster filesyste
+p   ocfs2-tools-pacemaker           - tools for managing OCFS2 cluster filesyste
+p   ocfs2console                    - tools for managing OCFS2 cluster filesyste
+p   octave-pfstools                 - octave bindings for pfstools              
+p   openafs-client                  - AFS distributed filesystem client support 
+p   openafs-dbg                     - AFS distributed filesystem debugging infor
+p   openafs-dbserver                - AFS distributed filesystem database server
+p   openafs-doc                     - AFS distributed filesystem documentation  
+p   openafs-fileserver              - AFS distributed filesystem file server    
+p   openafs-fuse                    - AFS distributed file system experimental F
+p   openafs-kpasswd                 - AFS distributed filesystem old password ch
+p   openafs-krb5                    - AFS distributed filesystem Kerberos 5 inte
+p   openafs-modules-dkms            - AFS distributed filesystem kernel module D
+p   openafs-modules-source          - AFS distributed filesystem kernel module s
+p   openhpi-plugin-sysfs            - OpenHPI plugin module for the sysfs filesy
+p   owfs                            - Dallas 1-wire support                     
+p   owfs-common                     - common files used by any of the OWFS progr
+p   owfs-dbg                        - Debugging symbols for the OWFS packages   
+p   owfs-doc                        - Dallas 1-wire support: Documentation for o
+p   owfs-fuse                       - 1-Wire filesystem                         
+p   paprefs                         - PulseAudio Preferences                    
+p   pdfsam                          - PDF Split and Merge                       
+p   pdfshuffler                     - merge, split and re-arrange pages from PDF
+p   pfsglview                       - command line HDR manipulation programs (Op
+p   pfstmo                          - set of tone mapping operators             
+p   pfstools                        - command line HDR manipulation programs    
+p   pfstools-dbg                    - command line HDR manipulation programs (de
+p   pfsview                         - command line HDR manipulation programs (Qt
+p   phonefsod                       - SHR daemon for freesmartphone.org interact
+p   pidgin-extprefs                 - extended preferences plugin for the instan
+p   proftpd-mod-fsync               - ProFTPD module mod_fsync                  
+p   pytagsfs                        - maps media files to an arbitrary directory
+p   python-ecryptfs                 - ecryptfs cryptographic filesystem (python)
+p   python-fs                       - Python filesystem abstraction             
+p   python-gridfs                   - Python implementation of GridFS for MongoD
+p   python-guestfs                  - guest disk image management system - Pytho
+v   python-libguestfs               -                                           
+v   python2.6-fs                    -                                           
+v   python2.6-gridfs                -                                           
+v   python2.7-fs                    -                                           
+v   python2.7-gridfs                -                                           
+p   qtpfsgui                        - luminance-hdr transitional package        
+p   qwbfsmanager                    - graphical file manager for the WBFS filesy
+p   rdiff-backup-fs                 - Fuse filesystem for accessing rdiff-backup
+i   reiserfsprogs                   - User-level tools for ReiserFS filesystems 
+p   rofs                            - Read-Only Filesystem for FUSE             
+p   ruby-fakefs                     - Fake file system to be used in unit tests 
+p   ruby-fssm                       - Ruby library firing events when the state 
+p   ruby-fusefs                     - library to easily define a filesystem in R
+p   ruby-guestfs                    - guest disk image management system - Ruby 
+i   scrounge-ntfs                   - Data recovery program for NTFS filesystems
+p   sfst                            - Stuttgart finite-state transducer tools   
+p   smbnetfs                        - User-space filesystem for SMB/NMB (Windows
+i   squashfs-tools                  - Tool to create and append to squashfs file
+p   squashfs-tools-dbg              - Tool to create and append to squashfs file
+i   sshfs                           - filesystem client based on SSH File Transf
+p   sshfs-dbg                       - filesystem client based on SSH File Transf
+p   synce-gnomevfs                  - SynCE plugin for GNOME VFS                
+i   sysfsutils                      - sysfs query tool and boot-time setup      
+p   tahoe-lafs                      - Secure distributed filesystem             
+p   tcl-vfs                         - Exposes Tcl's virtual filesystem C API to 
+v   tclvfs                          -                                           
+p   tdfsb                           - 3D filesystem browser                     
+p   tracker-miner-fs                - metadata database, indexer and search tool
+p   ttf-gfs-artemisia               - transitional dummy package                
+p   ttf-gfs-baskerville             - transitional dummy package                
+p   ttf-gfs-bodoni-classic          - transitional dummy package                
+p   ttf-gfs-complutum               - transitional dummy package                
+p   ttf-gfs-didot                   - transitional dummy package                
+p   ttf-gfs-didot-classic           - transitional dummy package                
+p   ttf-gfs-gazis                   - transitional dummy package                
+p   ttf-gfs-neohellenic             - transitional dummy package                
+p   ttf-gfs-olga                    - transitional dummy package                
+p   ttf-gfs-porson                  - transitional dummy package                
+p   ttf-gfs-solomos                 - transitional dummy package                
+p   ttf-gfs-theokritos              - transitional dummy package                
+p   ttf-rufscript                   - handwriting-based font for Latin character
+p   ufsutils                        - UFS filesystems utilities                 
+p   umview-mod-viewfs               - View-OS in user space - Filesystem manglin
+p   unionfs-fuse                    - Fuse implementation of unionfs            
+p   vmfs-tools                      - Tools to access VMFS filesystems          
+p   webfs                           - lightweight HTTP server for static content
+p   wikipediafs                     - View and edit Wikipedia articles as if the
+p   wmifs                           - WindowMaker dock app for monitoring networ
+i A x11-xfs-utils                   - X font server utilities                   
+p   xfce4-fsguard-plugin            - filesystem monitor plugin for the Xfce4 pa
+p   xfs                             - X font server                             
+i   xfsdump                         - Administrative utilities for the XFS files
+p   xfslibs-dev                     - XFS filesystem-specific static libraries a
+i   xfsprogs                        - Utilities for managing the XFS filesystem 
+p   xfstt                           - X Font Server for TrueType fonts          
+p   xfswitch-plugin                 - fast user switching plugin for the Xfce pa
+p   xmms2-plugin-gvfs               - XMMS2 - gvfs plug-in                      
+p   zfs-fuse                        - ZFS on FUSE                               
